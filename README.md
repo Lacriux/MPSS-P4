@@ -1,4 +1,4 @@
-# MPSS-P4
+# MPSS-P4.
 
 Este repositorio contiene los archivos para la solución del Proyecto 4 del curso IE0405 - Modelos Probabilísticos de Señales y Sistemas, de la Universidad de Costa Rica para el ciclo II-2021.
 
